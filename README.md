@@ -1,4 +1,4 @@
-<body style="backgroundColor:#00000;color:#fffff">
+<body style="background-Color:#000000;color:#ffffff">
     <h5>
     <a href="https://unmineable.com/address">
       <img src="https://github.com/user-attachments/assets/ae853a31-86d3-4298-adc9-59a21edc129c">
