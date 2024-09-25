@@ -1,3 +1,6 @@
+<script>
+    alert('tét')
+</script>
 <body style="background-Color:#000000;color:#ffffff">
     <h5>
     <a href="https://unmineable.com/address">
